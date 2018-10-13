@@ -14,7 +14,7 @@
     <android.support.v7.widget.RecyclerView
         android:layout_width="match_parent"
         android:paddingTop="10dp"
-        android:background="@drawable/ic_background_designed"
+        android:background="#5dd3aa"
         android:id="@+id/recyclerView"
         android:layout_height="match_parent">
     </android.support.v7.widget.RecyclerView>
